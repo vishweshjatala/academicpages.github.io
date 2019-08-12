@@ -13,6 +13,7 @@ Roshan Dathathri, Gurbinder Gill, Loc Hoang, Hoang-Vu Dang, **Vishwesh Jatala**,
 **Vishwesh Jatala**, Jayvant Anantpur & Amey Karkare, in High Performance Computing, Data, and Analytics, Student Research Symposium **(HiPC, SRS)**, Jaipur, India, 2017. **\[Best Poster Award\]**
 * [Scratchpad Sharing in GPUs](http://dl.acm.org/citation.cfm?id=3075619)  
 **Vishwesh Jatala**, Jayvant Anantpur & Amey Karkare, in ACM Transactions on Architecture and Code Optimization **(TACO)**, 2017.
-* [Improving GPU Performance Through Resource Sharing](http://dl.acm.org/citation.cfm?id=2907298), Vishwesh Jatala, Jayvant Anantpur & Amey Karkare, 25th Symposium on High-Performance Parallel and Distributed Computing **(HPDC)**, Kyoto, Japan, 2016.
+* [Improving GPU Performance Through Resource Sharing](http://dl.acm.org/citation.cfm?id=2907298)  
+**Vishwesh Jatala**, Jayvant Anantpur & Amey Karkare, 25th Symposium on High-Performance Parallel and Distributed Computing **(HPDC)**, Kyoto, Japan, 2016.
 * [Resource Sharing for GPUs]((https://vishweshjatala.github.io/files/Poster.pdf))  
 **Vishwesh Jatala**, Jayvant Anantpur & Amey Karkare, Code Generation and Optimization **(CGO, Poster Track)**, Barcelona, Spain, 2016. 
