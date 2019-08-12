@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Awards"
+title: "Awards and Achievements"
 permalink: /awards/
 author_profile: true
 ---
-
-Awards and Achievements
-======
 
 * Recipient of Best Poster Award fot the poster titled "GREENER: A Tool for Improving Energy Efficiency of GPU Register File" at High Performance Computing, Data, and Analytics, Student Research Symposium (HiPC, SRS), Jaipur, India, 2017
 * Recipient of Best Poster Award fot the poster titled "Resource Sharing for GPUse" at IBM Research Day, IIT Kanpur, April 2017
