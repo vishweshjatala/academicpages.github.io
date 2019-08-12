@@ -25,8 +25,8 @@ The University of Texas at Austin
 Austin, Texas  
 Zip Code: 78712  
 
-Email: <vishwesh.jatala@austin.utexas.edu>
-<vishweshjatala@gmail.com>  
+Email: <vishwesh.jatala@austin.utexas.edu>  
+<vishweshjatala@gmail.com>    
 
 Office: +1 512-475-6093
 
