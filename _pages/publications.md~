@@ -11,3 +11,5 @@ author_profile: true
 * [Scratchpad Sharing in GPUs](http://dl.acm.org/citation.cfm?id=3075619), Vishwesh Jatala, Jayvant Anantpur & Amey Karkare, in ACM Transactions on Architecture and Code Optimization **(TACO)**, 2017.
 * [Improving GPU Performance Through Resource Sharing](http://dl.acm.org/citation.cfm?id=2907298), Vishwesh Jatala, Jayvant Anantpur & Amey Karkare, 25th Symposium on High-Performance Parallel and Distributed Computing **(HPDC)**, Kyoto, Japan, 2016.
 * [Poster](https://vishweshjatala.github.io/files/Poster.pdf) Resource Sharing for GPUs , Vishwesh Jatala, Jayvant Anantpur & Amey Karkare, Code Generation and Optimization **(CGO, Poster Track)**, Barcelona, Spain, 2016. 
+
+
