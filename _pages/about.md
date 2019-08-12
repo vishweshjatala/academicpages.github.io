@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the University of Texas at Austin. I received my Ph.D from [Indian Institute of Technology Kanpur](http://iitk.ac.in/) in the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/). Prior to this, I have received my B.Tech from [Visvesvaraya National Institute of Technology Nagpur](http://vnit.ac.in/).
+I am a postdoctoral Fellow working with [Prof. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) in the [Intelligent Software Systems](https://iss.oden.utexas.edu/) group at the University of Texas at Austin. I received my Ph.D under the guidance of [Prof. Amey Karkare](https://cse.iitk.ac.in/users/karkare/) from the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at from [Indian Institute of Technology Kanpur](http://iitk.ac.in/). 
 
 
 Research Interests
