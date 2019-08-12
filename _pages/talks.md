@@ -5,11 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Recipient of **Best Poster Award** fot the poster titled "GREENER: A Tool for Improving Energy Efficiency of GPU Register File" at High Performance Computing, Data, and Analytics, Student Research Symposium (HiPC, SRS), Jaipur, India, 2017
-* Recipient of **Best Poster Award** fot the poster titled "Resource Sharing for GPUse" at IBM Research Day, IIT Kanpur, April 2017
-* Recipient of **TCS Fellowship** from Jan 2014 to June 2018
-* Recipient of **Institute Medal** for securing highest CPI in B.Tech, CSE at VNIT Nagpur in September 2009
-* Recipient of **Academic Excellence Prize** for securing highest CPI in B.Tech, CSE at VNIT Nagpur September 2009
-* Recipient of **Dr.V.M. Dokras Felicitation Committee Prize** for the best performance in 3rd year B.Tech, CSE at VNIT Nagpur in September 2008
-* Recipient of **Academic Excellence Prize** for the best performance in 3rd year B.Tech, CSE, at VNIT Nagpur in September 2008
-* Recipient of **Dr.S.G.Ghangrekhar Prize** for the best performance in Mathematics in 1st year, B.Tech at VNIT Nagpur in September 2006
+* Scratchpad Sharing in GPUs, at 12th **Inter-Research-Institute Student Seminar in Computer Science (IRISS)**, Nagpur, Feb 2018.
+* Scratchpad Sharing in GPUs, **CSE Doctoral Symposium**, NIIT University, Rajasthan, September 23rd-24th, 2017.
+* Poster Presentation on Resource Sharing for GPUs, **IBM Research Day**, IIT Kanpur, April 2017. [IBM Best Poster Award]
+* Improving GPU Performance Through Resource Sharing, at 11th **Inter-Research-Institute Student Seminar in Computer Science (IRISS)**, Kolkata, Jan 2017
+* Poster Presentation on Resource Sharing for GPUs at **Technology Day**, IIT Kanpur in May 2016.
+
