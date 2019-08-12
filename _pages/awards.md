@@ -5,8 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-* Recipient of **Best Poster Award** fot the poster titled "GREENER: A Tool for Improving Energy Efficiency of GPU Register File" at High Performance Computing, Data, and Analytics, Student Research Symposium (HiPC, SRS), Jaipur, India, 2017
-* Recipient of **Best Poster Award** fot the poster titled "Resource Sharing for GPUse" at IBM Research Day, IIT Kanpur, April 2017
+* Recipient of **Best Poster Award** for the poster titled "GREENER: A Tool for Improving Energy Efficiency of GPU Register File" at High Performance Computing, Data, and Analytics, Student Research Symposium (HiPC, SRS), Jaipur, India, 2017
+* Recipient of **Best Poster Award** for the poster titled "Resource Sharing for GPUse" at IBM Research Day, IIT Kanpur, April 2017
 * Recipient of **TCS Fellowship** from Jan 2014 to June 2018
 * Recipient of **Institute Medal** for securing highest CPI in B.Tech, CSE at VNIT Nagpur in September 2009
 * Recipient of **Academic Excellence Prize** for securing highest CPI in B.Tech, CSE at VNIT Nagpur September 2009
