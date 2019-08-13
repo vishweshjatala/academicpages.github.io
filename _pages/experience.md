@@ -18,7 +18,7 @@ Research Internship
 Teaching Assistant
 ======
 
-* IIT Kanpur(http://iitk.ac.in/)   [July 2011 - Dec 2017]
+* IIT Kanpur(http://iitk.ac.in/)   [July 2011 - Dec 2017]  
    Lab Administration  
    CS738: Advanced Compiler Optimizations  
    CS335: Compiler Design  
