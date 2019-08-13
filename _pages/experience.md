@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Experience"
+title: "Work Experience"
 permalink: /experience/
 author_profile: true
 ---
 
-Work Experience
-======
 
 * [Oracle India Pvt Ltd](http://www.oracle.com/), Hyderabad  \[June 2009 - July 2011\]  
   \(Member of Technical Staff\)
