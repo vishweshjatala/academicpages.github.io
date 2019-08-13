@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-This will be updated soon.
+[Click Here for CV](https://vishweshjatala.github.io/files/Vishwesh_Jatala.pdf)
