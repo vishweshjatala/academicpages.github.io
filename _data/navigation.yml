@@ -15,8 +15,6 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Curriculum Vitae "
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "CV"
+    url: /cv/   
+  
