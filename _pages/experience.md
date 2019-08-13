@@ -8,19 +8,19 @@ author_profile: true
 Work Experience
 ======
 
-* Oracle India Pvt Ltd, Hyderabad  \[June 2009 - July 2011\]  
+* [Oracle India Pvt Ltd](http://www.oracle.com/), Hyderabad  \[June 2009 - July 2011\]  
   \(Member of Technical Staff\)
 
 Research Internship
 ======
 
-* IBM India Research Laboratory, New Delhi  \[May 2013 - July 2013\]  
+* [IBM India Research Laboratory](http://www.research.ibm.com/labs/india/), New Delhi  \[May 2013 - July 2013\]  
   \(Research Intern\) 
 
 Teaching Assistant
 ======
 
-* IIT Kanpur   [July 2011 - Dec 2017]
+* IIT Kanpur(http://iitk.ac.in/)   [July 2011 - Dec 2017]
    Lab Administration  
    CS738: Advanced Compiler Optimizations  
    CS335: Compiler Design  
