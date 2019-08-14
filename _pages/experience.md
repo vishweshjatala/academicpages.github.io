@@ -15,6 +15,7 @@ Research Internship
 * [IBM India Research Laboratory](http://www.research.ibm.com/labs/india/), New Delhi  **\[May 2013 - July 2013\]**  
   \(Research Intern\) 
 
+
 Teaching Assistant
 ======
 
@@ -30,3 +31,8 @@ Teaching Assistant
    CS602: Design and Analysis of Algorithms  
    Workshop on C Programming and Data Structures as part of Teaching and Learning Center in June 2017 at IIT Kanpur  
 
+Professional Service
+======
+
+* Reviewer for PACT 2019, HIPC SRS 2017, ICCI 2017, and TOPC 2016
+* Evaluated master thesis of a student at NTNU: Norwegian University of Science and Technology university 
