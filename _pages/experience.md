@@ -1,10 +1,15 @@
 ---
 layout: archive
-title: "Work Experience"
+title: "Professional Service"
 permalink: /experience/
 author_profile: true
 ---
 
+* Reviewed papers for PACT 2019, HiPC SRS 2017, ICCI 2017, and TOPC 2016
+* Evaluated master thesis of a student at NTNU: Norwegian University of Science and Technology university 
+
+Work Experience
+======
 
 * [Oracle India Pvt Ltd](http://www.oracle.com/), Hyderabad  **\[June 2009 - July 2011\]**  
   \(Member of Technical Staff\)
@@ -31,8 +36,3 @@ Teaching Assistant
    CS602: Design and Analysis of Algorithms  
    Workshop on C Programming and Data Structures as part of Teaching and Learning Center in June 2017 at IIT Kanpur  
 
-Professional Service
-======
-
-* Reviewer for PACT 2019, HIPC SRS 2017, ICCI 2017, and TOPC 2016
-* Evaluated master thesis of a student at NTNU: Norwegian University of Science and Technology university 
