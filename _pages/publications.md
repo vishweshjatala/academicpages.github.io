@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **An Adaptive Load Balancer For Graph Analytical Applications on GPUs**  
-Vishwesh Jatala, Loc Hoang, Roshan Dathathri, Gurbinder Gill, V Krishna Nandivada, Keshav Pingali. (Under Review at PPoPP 2020)
 
+* **An Adaptive Load Balancer For Graph Analytical Applications on GPUs**  
+Vishwesh Jatala, Loc Hoang, Roshan Dathathri, Gurbinder Gill, V Krishna Nandivada, Keshav Pingali. (**Under Review** at PPoPP 2020)
+* **A Study of Graph Analytics for Massive Datasets on Large-Scale Distributed GPUs**  
+Vishwesh Jatala, Roshan Dathathri, Gurbinder Gill, Loc Hoang, V Krishna Nandivada, Keshav Pingali. (**Under Review** at IPDPS 2020)
 * **DistTC: High Performance Distributed Triangle Counting**  
 Loc Hoang<sup>*</sup>, **Vishwesh Jatala**<sup>*</sup>, Xuhao Chen, Udit Agarwal, Roshan Dathathri, Gurbinder Gill, Keshav Pingali, in IEEE High Performance extreme Computing Conference **(HPEC)**, 2019 (Accepted). **[Student Innovation Award]**  
 [<sup>*</sup> Both authors contributed equally]
