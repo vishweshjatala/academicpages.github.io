@@ -10,11 +10,11 @@ author_profile: true
 **Vishwesh Jatala**, Loc Hoang, Roshan Dathathri, Gurbinder Gill, V Krishna Nandivada, Keshav Pingali. (**Under Review** in PPoPP 2020)
 * **A Study of Graph Analytics for Massive Datasets on Large-Scale Distributed GPUs**  
 **Vishwesh Jatala**, Roshan Dathathri, Gurbinder Gill, Loc Hoang, V Krishna Nandivada, Keshav Pingali. (**Under Review** in IPDPS 2020)
+* **Gluon-Async: A Bulk-Asynchronous System for Distributed and Heterogeneous Graph Analytics**  
+Roshan Dathathri, Gurbinder Gill, Loc Hoang, Hoang-Vu Dang, **Vishwesh Jatala**, V Krishna Nandivada, Marc Snir, Keshav Pingali, in ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques **(PACT)**, 2019. **\[Nominated for Best Paper\]**
 * **DistTC: High Performance Distributed Triangle Counting**  
 Loc Hoang<sup>*</sup>, **Vishwesh Jatala**<sup>*</sup>, Xuhao Chen, Udit Agarwal, Roshan Dathathri, Gurbinder Gill, Keshav Pingali, in IEEE High Performance extreme Computing Conference **(HPEC)**, 2019 (Accepted). **[Student Innovation Award]**  
 [<sup>*</sup> Both authors contributed equally]
-* **Gluon-Async: A Bulk-Asynchronous System for Distributed and Heterogeneous Graph Analytics**  
-Roshan Dathathri, Gurbinder Gill, Loc Hoang, Hoang-Vu Dang, **Vishwesh Jatala**, V Krishna Nandivada, Marc Snir, Keshav Pingali, in ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques **(PACT)**, 2019.
 * [Reducing GPU Register File Energy](https://link.springer.com/chapter/10.1007/978-3-319-96983-1_6)  
 **Vishwesh Jatala**, Jayvant Anantpur & Amey Karkare, in 24th International European Conference on Parallel and Distributed Computing **(Euro-Par)**, 2018.
 * [GREENER: A Tool for Improving Energy Efficiency of GPU Register File](https://vishweshjatala.github.io/files/Greener.pdf)  
