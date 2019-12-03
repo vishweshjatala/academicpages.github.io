@@ -5,7 +5,8 @@ permalink: /experience/
 author_profile: true
 ---
 
-* Reviewed papers for PACT 2019, HiPC SRS 2017, ICCI 2017, and TOPC 2016
+* Reviewed papers for IPDPS 2020 (Joint reviewer), PACT 2019, HiPC SRS 2017, ICCI 2017, and TOPC 2016
+* Member of PPoPP 2020 Artifact Evaluation Committee 
 * Evaluated master thesis of a student at NTNU: Norwegian University of Science and Technology university 
 
 Work Experience
