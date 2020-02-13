@@ -13,8 +13,8 @@ I am a postdoctoral fellow working with [Prof. Keshav Pingali](https://www.cs.ut
 
 Research Interests
 ======
-Computer  Architecture  (GPU  and  CPU),  Optimizing  Compilers  for  GPU  Performance  and  Energy,
-High-Performance Computing, Source to Source Translators, Parallelization, GPU Graph Analytics.
+Graphics Processing Units (GPUs), Optimizing  Compilers  for  GPU  Performance  and  Energy,
+Computer  Architecture  (GPU  and  CPU), High-Performance Computing, Source to Source Translators, Parallelization, GPU Graph Analytics.
 
 
 Contact Information:
