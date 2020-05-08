@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **A Study of Graph Analytics for Massive Datasets on Large-Scale Distributed GPUs**  
+* [Talk](https://vishweshjatala.github.io/files/VishweshJatala_Presentation_IPDPS_2020.mp4) **A Study of Graph Analytics for Massive Datasets on Large-Scale Distributed GPUs**  
 **Vishwesh Jatala**, Roshan Dathathri, Gurbinder Gill, Loc Hoang, V Krishna Nandivada, Keshav Pingali, in 
 34th IEEE International Parallel & Distributed Processing Symposium **(IPDPS)**, 2020 (*To appear*).
 * [Gluon-Async: A Bulk-Asynchronous System for Distributed and Heterogeneous Graph Analytics](https://ieeexplore.ieee.org/document/8891625)  
