@@ -12,7 +12,7 @@ author_profile: true
 **2016**: TOPC
 *  Program Committee   
 **2020**: PPoPP Artifact Evaluation 
-* Evaluated master thesis of a student at NTNU (Norwegian University of Science and Technology University) 
+* Evaluated master thesis of a student at Norwegian University of Science and Technology University (NTNU)
 
 Work Experience
 ======
