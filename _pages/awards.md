@@ -4,6 +4,7 @@ title: "Awards and Achievements"
 permalink: /awards/
 author_profile: true
 ---
+
 * Recipient of Student Innovation Award in [HPEC](http://ieee-hpec.org/2019/) 2019
 * Nominated for Best Paper Award in [PACT](https://hpc.pnl.gov/pact19/) 2019
 * Recipient of **Tata Consultancy Services (TCS)  Ph.D. Fellowship** from Jan 2014 to June 2018
