@@ -7,24 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Assistant Professor
+#### Assistant Professor
+Department of Electrical Engineering and Computer Science
+Indian Institute of Technology Bhilai
+GEC Campus, Sejbahar,
+Raipur-492015, (C.G.), India
+Email:  <vishwesh@iitbhilai.ac.in>, <vishweshjatala@gmail.com>    
+
 
 Research Interests
 ======
 Graphics Processing Units (GPUs), Optimizing  Compilers  for  GPU  Performance  and  Energy,
 Computer  Architecture  (GPU  and  CPU), High-Performance Computing, Source to Source Translators, Parallelization, GPU Graph Analytics.
 
-
-Contact Information:
+Professional Experience
 ======
-Office: 4.120  
-201 E 24th Street  
-The University of Texas at Austin  
-Austin, Texas  
-Zip Code: 78712  
+* Assistant Professor, [IIT Bhilai](https://www.iitbhilai.ac.in/) (Aug 2020 - Present)
+* Postdoctoral Fellow, [The University of Texas at Austin](https://www.utexas.edu/) (Jan 2019 - June 2020)
+* Research Fellow, [The University of Texas at Austin](https://www.utexas.edu/) (May 2018 - Dec 2018)
+* Research Intern, [IBM India Research Laboratory](http://www.research.ibm.com/labs/india/) (May 2013 - July 2013)
+* Member of Technical Staff, [Oracle India Pvt Ltd](http://www.oracle.com/) (June 2009 - July 2011)
 
-Email: <vishwesh.jatala@austin.utexas.edu>  
-<vishweshjatala@gmail.com>    
 
-Office: +1 512-475-6093
+
 
