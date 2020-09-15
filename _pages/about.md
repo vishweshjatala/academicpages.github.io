@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Vishwesh Jatala"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-I am a postdoctoral fellow working with [Prof. Keshav Pingali](https://www.cs.utexas.edu/~pingali/) in the [Intelligent Software Systems](https://iss.oden.utexas.edu/) group at the University of Texas at Austin. I received my Ph.D. under the guidance of [Prof. Amey Karkare](https://cse.iitk.ac.in/users/karkare/) in the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at [Indian Institute of Technology Kanpur](http://iitk.ac.in/). 
-
+Assistant Professor
 
 Research Interests
 ======
