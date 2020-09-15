@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+* **A Study of APIs for Graph Analytics Workloads**, Hochan Lee, David Wongy, Loc Hoang, Roshan Dathathri, Gurbinder Gill, **Vishwesh Jatala**, 
+David Kucky, and Keshav Pingali, in IEEE International Symposium on Workload Characterization & Distributed Processing Symposium **(IISWC)**, 2020 [To appear].  
 * [(Slides)](https://vishweshjatala.github.io/files/IPDPS_MultiGPUStudy.pptx) [A Study of Graph Analytics for Massive Datasets on Large-Scale Distributed GPUs](https://vishweshjatala.github.io/files/IPDPS_Paper_online.pdf)  
 **Vishwesh Jatala**, Roshan Dathathri, Gurbinder Gill, Loc Hoang, V Krishna Nandivada, Keshav Pingali, in 
 34th IEEE International Parallel & Distributed Processing Symposium **(IPDPS)**, 2020.
