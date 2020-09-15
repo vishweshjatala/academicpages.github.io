@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Vishwesh Jatala"
+title: "Assistant Professor"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-### Assistant Professor 
 Department of Electrical Engineering and Computer Science   
 Indian Institute of Technology Bhilai  
 GEC Campus, Sejbahar,  
