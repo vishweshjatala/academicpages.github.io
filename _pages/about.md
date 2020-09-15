@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Assistant Professor 
+### Assistant Professor 
 Department of Electrical Engineering and Computer Science   
 Indian Institute of Technology Bhilai  
 GEC Campus, Sejbahar,  
