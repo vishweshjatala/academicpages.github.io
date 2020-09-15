@@ -13,10 +13,11 @@ main:
     url: /teaching/    
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
+    
+  - title: "Professional Service"
+    url: /experience/  
 
   - title: "CV"
     url: /cv/   
 
-  - title: "Professional Service"
-    url: /experience/  
