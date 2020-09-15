@@ -2,7 +2,6 @@
 layout: archive
 title: "Vishwesh Jatala"
 permalink: /home/
-permalink: /
 author_profile: true
 ---
 
