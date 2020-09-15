@@ -4,7 +4,8 @@ title: "Awards and Achievements"
 permalink: /awards/
 author_profile: true
 ---
-
+* Recipient of Student Innovation Award in [HPEC](http://ieee-hpec.org/2019/) 2019
+* Nominated for Best Paper Award in [PACT](https://hpc.pnl.gov/pact19/) 2019
 * Recipient of **Tata Consultancy Services (TCS)  Ph.D. Fellowship** from Jan 2014 to June 2018
 * Recipient of **Best Poster Award** for the poster titled "GREENER: A Tool for Improving Energy Efficiency of GPU Register File" at High Performance Computing, Data, and Analytics, Student Research Symposium (HiPC, SRS), Jaipur, India, 2017
 * Recipient of **Best Poster Award** for the poster titled "Resource Sharing for GPUs" at IBM Research Day, IIT Kanpur, April 2017
