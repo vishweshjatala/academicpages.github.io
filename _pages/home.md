@@ -1,11 +1,9 @@
 ---
-permalink: /
+layout: archive
 title: "Vishwesh Jatala"
-excerpt: "About me"
+permalink: /home/
+permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ### Assistant Professor 
