@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 ## Assistant Professor 
-Department of Electrical Engineering and Computer Science 
-Indian Institute of Technology Bhilai 
-GEC Campus, Sejbahar, 
-Raipur-492015, (C.G.), India 
-Email:  <vishwesh@iitbhilai.ac.in>, <vishweshjatala@gmail.com>     
+Department of Electrical Engineering and Computer Science   
+Indian Institute of Technology Bhilai  
+GEC Campus, Sejbahar,  
+Raipur-492015, (C.G.), India   
+Email:  <vishwesh@iitbhilai.ac.in>, <vishweshjatala@gmail.com>       
 
 
 Research Interests
@@ -22,7 +22,7 @@ Computer  Architecture  (GPU  and  CPU), High-Performance Computing, Source to S
 
 Education
 ======
-* Ph.D, Department of CSE, [IIT Kanpur] (https://www.iitk.ac.in/) (2011 - 2018)
+* Ph.D, Department of CSE, [IIT Kanpur](https://www.iitk.ac.in/) (2011 - 2018)
 * B.Tech, Department of CSE, [VNIT Nagpur](http://vnit.ac.in/) (2005 - 2009)
 
 Professional Experience
