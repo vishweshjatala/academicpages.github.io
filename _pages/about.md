@@ -14,7 +14,7 @@ Department of Electrical Engineering and Computer Science
 [Indian Institute of Technology Bhilai](https://www.iitbhilai.ac.in/)  
 GEC Campus, Sejbahar,  
 Raipur-492015, Chhattisgarh, India   
-Email:  <vishwesh@iitbhilai.ac.in>, <vishweshjatala@gmail.com>  
+Email:  <vishwesh[AT]iitbhilai[DOT]ac[DOT]in>, <vishweshjatala[AT]gmail[DOT]com>  
 
 ## Research Interests
 Graphics Processing Units (GPUs), Optimizing  Compilers  for  GPU  Performance  and  Energy,
