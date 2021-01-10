@@ -14,7 +14,7 @@ author_profile: true
 **2019**: PACT  
 **2017**: HiPC SRS, ICCI  
 **2016**: TOPC
-* Thesis Evaluation 
-**2020**: Master thesis of a student at NTNU
-**2019**: Master thesis of a student at NTNU
+* Thesis Evaluation    
+**2020**: Master thesis of a student at NTNU   
+**2019**: Master thesis of a student at NTNU   
 
