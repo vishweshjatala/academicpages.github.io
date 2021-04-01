@@ -13,8 +13,12 @@ GEC Campus, Sejbahar,
 Raipur-492015, Chhattisgarh, India   
 Email:  <vishwesh@iitbhilai.ac.in>, <vishweshjatala@gmail.com>  
 
-|I am looking for highly motivated Ph.D. students to work in the areas of parallel computing, high-performance computing, computer architecture, compilers, or graph processing. If you are interested in working with me, please email me your CV and apply for the Ph.D. position at IIT Bhilai.|
-|-----------------------------------------|
+----------------------------------------------------------------------
+                
+**I am looking for highly motivated Ph.D. students to work in the areas of parallel computing, high-performance computing, computer architecture, compilers, or graph processing. If you are interested in working with me, please email me your CV and apply for the Ph.D. position at IIT Bhilai.**
+
+----------------------------------------------------
+
 
 ## Research Interests
 Graphics Processing Units (GPUs), Optimizing  Compilers  for  GPU  Performance  and  Energy,
