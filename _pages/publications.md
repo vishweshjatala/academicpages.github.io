@@ -26,3 +26,4 @@ Loc Hoang<sup>*</sup>, **Vishwesh Jatala**<sup>*</sup>, Xuhao Chen, Udit Agarwal
 **Vishwesh Jatala**, Jayvant Anantpur & Amey Karkare, Code Generation and Optimization **(CGO, Poster Track)**, Barcelona, Spain, 2016. 
 * [An Adaptive Load Balancer For Graph Analytical Applications on GPUs](https://arxiv.org/abs/1911.09135)  
 **Vishwesh Jatala**, Loc Hoang, Roshan Dathathri, Gurbinder Gill, V Krishna Nandivada, Keshav Pingali, Arxiv, 2019. (**Under Submission**)
+
