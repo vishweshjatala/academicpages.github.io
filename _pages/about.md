@@ -14,7 +14,8 @@ Department of Electrical Engineering and Computer Science
 [Indian Institute of Technology Bhilai](https://www.iitbhilai.ac.in/)  
 GEC Campus, Sejbahar,  
 Raipur-492015, Chhattisgarh, India   
-Email:  <vishwesh[AT]iitbhilai[DOT]ac[DOT]in>, <vishweshjatala[AT]gmail[DOT]com>
+Email:  <vishwesh@iitbhilai.ac.in>, <vishweshjatala@gmail.com>
+Phone (Office): 0771-2551300 (Ext. 6102)
   
 
 **-----------------------------------------------------------------------------------------------------------------------------------**
