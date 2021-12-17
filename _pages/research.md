@@ -1,9 +1,14 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
+
+## Sponsored Projects
+A High-Performance and Memory Efficient Graph Analytical Framework for GPUs. Project Fund: ∼30 Lacs. Funding Agency: DST/SERB. 2021-23.
+
+## Publications
 * **A Study of APIs for Graph Analytics Workloads**, Hochan Lee, David Wongy, Loc Hoang, Roshan Dathathri, Gurbinder Gill, **Vishwesh Jatala**, 
 David Kucky, and Keshav Pingali, in IEEE International Symposium on Workload Characterization & Distributed Processing Symposium **(IISWC)**, 2020.  
 * [(Slides)](https://vishweshjatala.github.io/files/IPDPS_MultiGPUStudy.pptx) [A Study of Graph Analytics for Massive Datasets on Large-Scale Distributed GPUs](https://vishweshjatala.github.io/files/IPDPS_Paper_online.pdf)  
