@@ -9,6 +9,6 @@ author_profile: true
 Niharika Nayak  
 
 ## M.Tech  
-Ranjith Vutnoor
-Apurva Dorga
+Ranjith Vutnoor  
+Apurva Dorga  
 
