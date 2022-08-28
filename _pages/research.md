@@ -7,6 +7,7 @@ author_profile: true
 
 ## Sponsored Projects
 A High-Performance and Memory Efficient Graph Analytical Framework for GPUs. Project Fund: ∼30 Lacs. Funding Agency: DST/SERB. 2021-23.
+A High-Performance and Memory-Efficient Deep Learning Framework for GPUs. Project Fund: ∼12 Lacs. Research Initiation Grant. 2022-25.
 
 ## Publications
 * **A Study of APIs for Graph Analytics Workloads**, Hochan Lee, David Wongy, Loc Hoang, Roshan Dathathri, Gurbinder Gill, **Vishwesh Jatala**, 
