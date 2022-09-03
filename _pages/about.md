@@ -26,8 +26,7 @@ Phone (Office): 0771-2551300 (Ext. 6102)
 
 
 ## Research Interests
-Graphics Processing Units (GPUs), Optimizing  Compilers  for  GPU  Performance  and  Energy,
-Computer  Architecture  (GPU  and  CPU), High-Performance Computing, Source to Source Translators, Parallelization, GPU Graph Analytics.
+Graphics Processing Units (GPUs), High-Performance Computing, Graph Neural Networks, Graph Analytics.
 
 ## Education
 * Ph.D, Department of CSE, [IIT Kanpur](https://www.iitk.ac.in/) (2011 - 2018)

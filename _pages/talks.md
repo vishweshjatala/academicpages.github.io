@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Graphics Processing Units, Guest Lecture, G. H. Raisoni College of Engineering, 2022
 * Graph Processing on GPUs, [HiPC Programming Contest GPU Track](https://hipc.org/hipc-training/#gpu-training), 2021  
 * Introduction to GPUs, CUDA Programming, Optimizations, and Research Directions, Computer Architecture Winter School ([CAWS 2020](https://www.chips.pes.edu/caws2020)), 2020  
 * Scratchpad Sharing in GPUs, at 12th **Inter-Research-Institute Student Seminar in Computer Science (IRISS)**, Nagpur, Feb 2018.
