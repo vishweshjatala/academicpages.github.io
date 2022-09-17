@@ -14,8 +14,6 @@ author_profile: true
 * **Adopting Heterogeneous Computing Modules: Experiences from a ToUCH Summer Workshop**, David P. Bunde, Kishwar Ahmed, Sridevi Ayloo, Tisha Brown-Gaines, Joel Fuentes, **Vishwesh Jatala**, Ruth Kurniawati, Işıl Öz, Apan Qasem, Philip J. Schielke, Mary C. Tedeschi, Thomas Y. Yeh, 10th Workshop on Education for High-Performance Computing **(EduHPC-22)**, 2022. [Accepted]
 * **A Study of APIs for Graph Analytics Workloads**, Hochan Lee, David Wongy, Loc Hoang, Roshan Dathathri, Gurbinder Gill, **Vishwesh Jatala**, 
 David Kucky, and Keshav Pingali, in IEEE International Symposium on Workload Characterization & Distributed Processing Symposium **(IISWC)**, 2020.  
-* **A Study of APIs for Graph Analytics Workloads**, Hochan Lee, David Wongy, Loc Hoang, Roshan Dathathri, Gurbinder Gill, **Vishwesh Jatala**, 
-David Kucky, and Keshav Pingali, in IEEE International Symposium on Workload Characterization & Distributed Processing Symposium **(IISWC)**, 2020.  
 * [(Slides)](https://vishweshjatala.github.io/files/IPDPS_MultiGPUStudy.pptx) [A Study of Graph Analytics for Massive Datasets on Large-Scale Distributed GPUs](https://vishweshjatala.github.io/files/IPDPS_Paper_online.pdf)  
 **Vishwesh Jatala**, Roshan Dathathri, Gurbinder Gill, Loc Hoang, V Krishna Nandivada, Keshav Pingali, in 
 34th IEEE International Parallel & Distributed Processing Symposium **(IPDPS)**, 2020.
