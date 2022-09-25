@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 * **2022**  
-    1. Publicity Co-Chair, [HiPC 2022](https://hipc.org/organizing_committee/)  
-    2. Reviewer, [JPDC 2022](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing)  
+    1. Program Committee, [WDFHC 2022](https://hipc.org/wdfhc/)  
+    2. Publicity Co-Chair, [HiPC 2022](https://hipc.org/organizing_committee/)  
+    3. Reviewer, [JPDC 2022](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing)  
 * **2021**  
     1. Organizing Committee, [NSM-CAWS 2021](https://www.chips.pes.edu/nsm-caws2021)  
     2. Publicity Chair, [HiPC 2021](https://hipc.org/organizing_committee/)  
