@@ -4,7 +4,9 @@ title: "Professional Service"
 permalink: /experience/
 author_profile: true
 ---
-
+* **2023**  
+    1. Program Committee, [HiPC 2023](https://hipc.org/programcomittee/)  
+    2. Publicity Co-Chair, [HiPC 2022](https://hipc.org/organizing_committee/)  
 * **2022**  
     1. Program Committee, [WDFHC 2022](https://hipc.org/wdfhc/)  
     2. Publicity Co-Chair, [HiPC 2022](https://hipc.org/organizing_committee/)  

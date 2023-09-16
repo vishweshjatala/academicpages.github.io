@@ -8,10 +8,13 @@ author_profile: true
 ## Sponsored Projects
 * A High-Performance and Memory Efficient Graph Analytical Framework for GPUs,  Project Fund: ∼30 Lacs, DST/SERB, 2021-23.
 * A High-Performance and Memory-Efficient Deep Learning Framework for GPUs, Project Fund: ∼12 Lacs, Research Initiation Grant, IIT Bhilai, 2022-25.
+* Digital Transformation System For Pre-Failure Alert Generation For Equipment Failture & Cobble Reduction Based on Data Analytics And Video Analytics at BRM . Project Fund: 2.99 Crore, Bhilai Steel Plant, 2023-25. 
 
 ## Publications
-* **Joint Partitioning and Sampling Algorithm for Scaling Graph Neural Networks**, Manohar Lal Das, **Vishwesh Jatala**, and Gagan Raj Gupta, 29th IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2022. [Accepted] [Short Paper]
-* **Adopting Heterogeneous Computing Modules: Experiences from a ToUCH Summer Workshop**, David P. Bunde, Kishwar Ahmed, Sridevi Ayloo, Tisha Brown-Gaines, Joel Fuentes, **Vishwesh Jatala**, Ruth Kurniawati, Işıl Öz, Apan Qasem, Philip J. Schielke, Mary C. Tedeschi, Thomas Y. Yeh, 10th Workshop on Education for High-Performance Computing **(EduHPC-22)**, 2022. [Accepted]
+* **Entropy Aware Training for Fast and Accurate Distributed GNN**, Dhruv Deshmukh, Gagan Gupta, Manisha Chawla, **Vishwesh Jatala**, and Anirban Haldar, 23rd IEEE International Conference on Data Mining (ICDM), 2023.
+* **Joint Partitioning and Sampling Algorithm for Scaling Graph Neural Networks**, Manohar Lal Das, **Vishwesh Jatala**, and Gagan Raj Gupta, 29th IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2022.  
+* **Adopting Heterogeneous Computing Modules: Experiences from a ToUCH Summer Workshop**, David P. Bunde, Kishwar Ahmed, Sridevi Ayloo, Tisha Brown-Gaines, Joel Fuentes, **Vishwesh Jatala**, Ruth Kurniawati, Işıl Öz, Apan Qasem, Philip J. Schielke, Mary C. Tedeschi, Thomas Y. Yeh, 10th Workshop on Education for High-Performance Computing **(EduHPC-22)**, 2022.  
+* **Accelerating Graph Neural Networks using GPU**, Niharika Nayak, **Vishwesh Jatala** at Student Research Symposium, 29th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC), 2022. 
 * **A Study of APIs for Graph Analytics Workloads**, Hochan Lee, David Wongy, Loc Hoang, Roshan Dathathri, Gurbinder Gill, **Vishwesh Jatala**, 
 David Kucky, and Keshav Pingali, in IEEE International Symposium on Workload Characterization & Distributed Processing Symposium **(IISWC)**, 2020.  
 * [(Slides)](https://vishweshjatala.github.io/files/IPDPS_MultiGPUStudy.pptx) [A Study of Graph Analytics for Massive Datasets on Large-Scale Distributed GPUs](https://vishweshjatala.github.io/files/IPDPS_Paper_online.pdf)  

@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 ## Ph.D  
-Niharika Nayak  
+Niharika Nayak 
+Surendra Kumar Raut 
+Kishan Tamboli  
 
 ## M.Tech  
-Ranjith Vutnoor  
-Apurva Dorga  
+Ranjith Vutnoor (Graduated in 2023) 
+Apurva Dorga (Graduated in 2023) 
 
