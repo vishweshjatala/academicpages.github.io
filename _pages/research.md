@@ -8,7 +8,7 @@ author_profile: true
 ## Sponsored Projects
 * A High-Performance and Memory Efficient Graph Analytical Framework for GPUs,  Project Fund: ∼30 Lacs, DST/SERB, 2021-23.
 * A High-Performance and Memory-Efficient Deep Learning Framework for GPUs, Project Fund: ∼12 Lacs, Research Initiation Grant, IIT Bhilai, 2022-25.
-* Digital Transformation System For Pre-Failure Alert Generation For Equipment Failture & Cobble Reduction Based on Data Analytics And Video Analytics at BRM . Project Fund: 2.99 Crore, Bhilai Steel Plant, 2023-25. 
+* Digital Transformation System For Pre-Failure Alert Generation For Equipment Failture & Cobble Reduction Based on Data Analytics And Video Analytics at BRM . Project Fund: 2.99 Crore, Bhilai Steel Plant, 2023-25. \[As a CO-PI\]
 
 ## Publications
 * **Entropy Aware Training for Fast and Accurate Distributed GNN**, Dhruv Deshmukh, Gagan Gupta, Manisha Chawla, **Vishwesh Jatala**, and Anirban Haldar, 23rd IEEE International Conference on Data Mining (ICDM), 2023.
