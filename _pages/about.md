@@ -9,21 +9,13 @@ redirect_from:
 ---
 
 ### Assistant Professor 
-Office: B-010  
-Department of Electrical Engineering and Computer Science   
-[Indian Institute of Technology Bhilai](https://www.iitbhilai.ac.in/)  
-GEC Campus, Sejbahar,  
-Raipur-492015, Chhattisgarh, India   
+Office: 401A 
+Department of CSE 
+[Indian Institute of Technology Bhilai](https://www.iitbhilai.ac.in/) 
+Permanent Campus, Kutelabhata 
+Bhilai, Durg - 491001, Chhattisgarh, India  
 Email:  <vishwesh@iitbhilai.ac.in>, <vishweshjatala@gmail.com>
-Phone (Office): 0771-2551300 (Ext. 6102)
   
-
-**-----------------------------------------------------------------------------------------------------------------------------------**
-                
-**I am looking for highly motivated Ph.D. students to work in the areas of parallel computing, high-performance computing, computer architecture, compilers, or graph processing. If you are interested in working with me, please email me your CV and apply for the Ph.D. position at IIT Bhilai.**
-
-**------------------------------------------------------------------------------------------------------------------------------------**
-
 
 ## Research Interests
 Graphics Processing Units (GPUs), High-Performance Computing, Graph Neural Networks, Graph Analytics.
