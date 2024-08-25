@@ -11,6 +11,8 @@ author_profile: true
 * Kishan Tamboli   
 
 ## M.Tech  
+* Raviteja Nandam 
+* Amitesh Singh 
 * Ranjith Vutnoor (Graduated in 2023) 
 * Apurva Dorga (Graduated in 2023) 
 

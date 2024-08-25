@@ -4,6 +4,10 @@ title: "Professional Service"
 permalink: /experience/
 author_profile: true
 ---
+* **2024**  
+    1. Program Committee, [HiPC 2024](https://hipc.org/programcomittee/)  
+    2. Poster Co-Chair, [HiPC 2024](https://hipc.org/organizing_committee/)  
+    3. Reviewer, [TACO 2024] (https://dl.acm.org/journal/taco)
 * **2023**  
     1. Program Committee, [HiPC 2023](https://hipc.org/programcomittee/)  
     2. Publicity Co-Chair, [HiPC 2022](https://hipc.org/organizing_committee/)  
