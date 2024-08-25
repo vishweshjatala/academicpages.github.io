@@ -10,7 +10,7 @@ redirect_from:
 
 ### Assistant Professor 
 Office: 401A 
-Department of CSE 
+Department of CSE  
 [Indian Institute of Technology Bhilai](https://www.iitbhilai.ac.in/) 
 Permanent Campus, Kutelabhata 
 Bhilai, Durg - 491001, Chhattisgarh, India  

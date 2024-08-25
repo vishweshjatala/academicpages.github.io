@@ -7,9 +7,9 @@ author_profile: true
 
 ### Assistant Professor 
 Office: 401A 
-Department of CSE 
-[Indian Institute of Technology Bhilai](https://www.iitbhilai.ac.in/) 
-Permanent Campus, Kutelabhata 
+Department of CSE  
+[Indian Institute of Technology Bhilai](https://www.iitbhilai.ac.in/)  
+Permanent Campus, Kutelabhata  
 Bhilai, Durg - 491001, Chhattisgarh, India  
 Email:  <vishwesh@iitbhilai.ac.in>, <vishweshjatala@gmail.com>
 
