@@ -11,8 +11,13 @@ author_profile: true
 * Digital Transformation System For Pre-Failure Alert Generation For Equipment Failture & Cobble Reduction Based on Data Analytics And Video Analytics at BRM . Project Fund: 2.99 Crore, Bhilai Steel Plant, 2023-25. \[As a CO-PI\]
 
 ## Publications
-* **Distributed Graph Neural Networks**, Dhruv Deshmukh, Gagan Gupta, and **Vishwesh Jatala**, Tutorial Track, Joint International Conference on Data Sciences and Management of Data **(CODS-COMAD)**, 2024
-* **Entropy Aware Training for Fast and Accurate Distributed GNN**, Dhruv Deshmukh, Gagan Gupta, Manisha Chawla, **Vishwesh Jatala**, and Anirban Haldar, 23rd IEEE International Conference on Data Mining (ICDM), 2023.
+
+* **Multivariate Time Series Data Mining for Failure Prediction & Root Cause Analysis**, Naman Agarwal, Gagan Raj Gupta,  **Vishwesh Jatala**, Aniket Saha, IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP)**, 2025  
+* **A Cluster-Based Sampler for Fast GNN**, Surendra Kumar Raut, Kishan Tamboli,  **Vishwesh Jatala** at Student Research Symposium, 31st IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2024.  
+* **Accelerated Multilevel Graph Partitioning on GPUs**, Amitesh Singh, Bhakti Dhorajiya,  **Vishwesh Jatala** at Student Research Symposium, 31st IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2024.  
+* **A Partitioning Scheme for Large Scale Clique Counting on Single GPU**, Vinayak Kesarwani, Shivangi Gaur, Sudeep Ranjan Sahoo, Kishan Tamboli,  **Vishwesh Jatala** at Student Research Symposium, 31st IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2024.  
+* **Distributed Graph Neural Networks**, Dhruv Deshmukh, Gagan Gupta, and **Vishwesh Jatala**, Tutorial Track, Joint International Conference on Data Sciences and Management of Data **(CODS-COMAD)**, 2024  
+* **Entropy Aware Training for Fast and Accurate Distributed GNN**, Dhruv Deshmukh, Gagan Gupta, Manisha Chawla, **Vishwesh Jatala**, and Anirban Haldar, 23rd IEEE International Conference on Data Mining (ICDM), 2023.  
 * **Memory Efficient Sparse Matrix-Matrix Multiplication on GPU**, Apurva Dogra, Kishan Tamboli, and **Vishwesh Jatala** at Student Research Symposium, 30th IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2023. 
 * **Joint Partitioning and Sampling Algorithm for Scaling Graph Neural Networks**, Manohar Lal Das, **Vishwesh Jatala**, and Gagan Raj Gupta, 29th IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2022.  
 * **Adopting Heterogeneous Computing Modules: Experiences from a ToUCH Summer Workshop**, David P. Bunde, Kishwar Ahmed, Sridevi Ayloo, Tisha Brown-Gaines, Joel Fuentes, **Vishwesh Jatala**, Ruth Kurniawati, Işıl Öz, Apan Qasem, Philip J. Schielke, Mary C. Tedeschi, Thomas Y. Yeh, 10th Workshop on Education for High-Performance Computing **(EduHPC-22)**, 2022.  
